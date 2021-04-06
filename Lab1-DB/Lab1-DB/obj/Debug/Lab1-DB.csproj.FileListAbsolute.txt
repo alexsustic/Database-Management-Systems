@@ -1,0 +1,10 @@
+C:\Users\Alessandro Sustic\Desktop\Lab1-DB\Lab1-DB\bin\Debug\Lab1-DB.exe.config
+C:\Users\Alessandro Sustic\Desktop\Lab1-DB\Lab1-DB\bin\Debug\Lab1-DB.exe
+C:\Users\Alessandro Sustic\Desktop\Lab1-DB\Lab1-DB\bin\Debug\Lab1-DB.pdb
+C:\Users\Alessandro Sustic\Desktop\Lab1-DB\Lab1-DB\obj\Debug\Lab1-DB.csprojAssemblyReference.cache
+C:\Users\Alessandro Sustic\Desktop\Lab1-DB\Lab1-DB\obj\Debug\Lab1_DB.Form1.resources
+C:\Users\Alessandro Sustic\Desktop\Lab1-DB\Lab1-DB\obj\Debug\Lab1_DB.Properties.Resources.resources
+C:\Users\Alessandro Sustic\Desktop\Lab1-DB\Lab1-DB\obj\Debug\Lab1-DB.csproj.GenerateResource.cache
+C:\Users\Alessandro Sustic\Desktop\Lab1-DB\Lab1-DB\obj\Debug\Lab1-DB.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro Sustic\Desktop\Lab1-DB\Lab1-DB\obj\Debug\Lab1-DB.exe
+C:\Users\Alessandro Sustic\Desktop\Lab1-DB\Lab1-DB\obj\Debug\Lab1-DB.pdb
